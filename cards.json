@@ -1,0 +1,674 @@
+[
+    {
+        "EXPANSION":"Core Space",
+        "CARD NAME":"Computer Says No",
+        "TYPE":"Environment",
+        "Content":"Computer_Says_No.png"
+    },
+    {
+        "EXPANSION":"Core Space",
+        "CARD NAME":"Day-To-Day Business",
+        "TYPE":"Civilians",
+        "Content":"Day-To-Day_Business.png"
+    },
+    {
+        "EXPANSION":"Core Space",
+        "CARD NAME":"Favour The Brave",
+        "TYPE":"Environment",
+        "Content":"Favour_The_Brave.png"
+    },
+    {
+        "EXPANSION":"Core Space",
+        "CARD NAME":"Hive Interference",
+        "TYPE":"Purge",
+        "Content":"Hive_Interference.png"
+    },
+    {
+        "EXPANSION":"Core Space",
+        "CARD NAME":"I've Got A Bad Feeling About This\u2026",
+        "TYPE":"Environment",
+        "Content":"I've_Got_A_Bad_Feeling_About_This\u2026.png"
+    },
+    {
+        "EXPANSION":"Core Space",
+        "CARD NAME":"Intelligence",
+        "TYPE":"Environment",
+        "Content":"Intelligence.png"
+    },
+    {
+        "EXPANSION":"Core Space",
+        "CARD NAME":"Interference",
+        "TYPE":"Civilians",
+        "Content":"Interference.png"
+    },
+    {
+        "EXPANSION":"Core Space",
+        "CARD NAME":"Live One Intervention",
+        "TYPE":"Purge",
+        "Content":"Live_One_Intervention.png"
+    },
+    {
+        "EXPANSION":"Core Space",
+        "CARD NAME":"No Smoking",
+        "TYPE":"Environment",
+        "Content":"No_Smoking.png"
+    },
+    {
+        "EXPANSION":"Core Space",
+        "CARD NAME":"Purge Activity",
+        "TYPE":"Purge",
+        "Content":"Purge_Activity.png"
+    },
+    {
+        "EXPANSION":"Core Space",
+        "CARD NAME":"Rising Tension",
+        "TYPE":"Purge",
+        "Content":"Rising_Tension.png"
+    },
+    {
+        "EXPANSION":"Core Space",
+        "CARD NAME":"Supply Cache",
+        "TYPE":"Environment",
+        "Content":"Supply_Cache.png"
+    },
+    {
+        "EXPANSION":"Core Space",
+        "CARD NAME":"The Earth Moves",
+        "TYPE":"Environment",
+        "Content":"The_Earth_Moves.png"
+    },
+    {
+        "EXPANSION":"Core Space",
+        "CARD NAME":"The Great Unwashed",
+        "TYPE":"Civilians",
+        "Content":"The_Great_Unwashed.png"
+    },
+    {
+        "EXPANSION":"Core Space",
+        "CARD NAME":"The Law of Sod",
+        "TYPE":"Environment",
+        "Content":"The_Law_of_Sod.png"
+    },
+    {
+        "EXPANSION":"Core Space",
+        "CARD NAME":"They're Everywhere",
+        "TYPE":"Environment",
+        "Content":"They're_Everywhere.png"
+    },
+    {
+        "EXPANSION":"Core Space",
+        "CARD NAME":"Unseen Enemies",
+        "TYPE":"Purge",
+        "Content":"Unseen_Enemies.png"
+    },
+    {
+        "EXPANSION":"Core Space",
+        "CARD NAME":"We're Being Hunted",
+        "TYPE":"Purge",
+        "Content":"We're_Being_Hunted.png"
+    },
+    {
+        "EXPANSION":"Core Space",
+        "CARD NAME":"Well Regulated Militia",
+        "TYPE":"Civilians",
+        "Content":"Well_Regulated_Militia.png"
+    },
+    {
+        "EXPANSION":"Core Space",
+        "CARD NAME":"What's It Worth?",
+        "TYPE":"Civilians",
+        "Content":"What's_It_Worth?.png"
+    },
+    {
+        "EXPANSION":"Crew of the Cygnus",
+        "CARD NAME":"Blinded by the Light",
+        "TYPE":"Assistance",
+        "Content":"Blinded_by_the_Light.png"
+    },
+    {
+        "EXPANSION":"Crew of the Cygnus",
+        "CARD NAME":"Foresight",
+        "TYPE":"Assistance",
+        "Content":"Foresight.png"
+    },
+    {
+        "EXPANSION":"Crew of the Cygnus",
+        "CARD NAME":"Sustenance",
+        "TYPE":"Environment",
+        "Content":"Sustenance.png"
+    },
+    {
+        "EXPANSION":"Crew of the Poseidon",
+        "CARD NAME":"Diamond In The Dirt",
+        "TYPE":"Environment",
+        "Content":"Diamond_In_The_Dirt.png"
+    },
+    {
+        "EXPANSION":"Crew of the Poseidon",
+        "CARD NAME":"Perfect Timing",
+        "TYPE":"Assistance",
+        "Content":"Perfect_Timing.png"
+    },
+    {
+        "EXPANSION":"Crew of the Poseidon",
+        "CARD NAME":"Ship Support",
+        "TYPE":"Assistance",
+        "Content":"Ship_Support.png"
+    },
+    {
+        "EXPANSION":"Crew of the Skylark",
+        "CARD NAME":"Raise Shields",
+        "TYPE":"Assistance",
+        "Content":"Raise_Shields.png"
+    },
+    {
+        "EXPANSION":"Crew of the Skylark",
+        "CARD NAME":"Sensor Scan",
+        "TYPE":"Environment",
+        "Content":"Sensor_Scan.png"
+    },
+    {
+        "EXPANSION":"Crew of the Skylark",
+        "CARD NAME":"Ship Support",
+        "TYPE":"Assistance",
+        "Content":"Ship_Support.png"
+    },
+    {
+        "EXPANSION":"Crew of the Yamato",
+        "CARD NAME":"Automated Defence",
+        "TYPE":"Environment",
+        "Content":"Automated_Defence.png"
+    },
+    {
+        "EXPANSION":"Crew of the Yamato",
+        "CARD NAME":"Fire In the Hole!",
+        "TYPE":"Assistance",
+        "Content":"Fire_In_the_Hole!.png"
+    },
+    {
+        "EXPANSION":"Crew of the Yamato",
+        "CARD NAME":"Merg Master",
+        "TYPE":"Assistance",
+        "Content":"Merg_Master.png"
+    },
+    {
+        "EXPANSION":"Galactic Corps",
+        "CARD NAME":"Galactic Spy",
+        "TYPE":"Galactic Corps",
+        "Content":"Galactic_Spy.png"
+    },
+    {
+        "EXPANSION":"Galactic Corps",
+        "CARD NAME":"Military Intervention",
+        "TYPE":"Galactic Corps",
+        "Content":"Military_Intervention.png"
+    },
+    {
+        "EXPANSION":"Galactic Corps",
+        "CARD NAME":"Operation Stack",
+        "TYPE":"Galactic Corps",
+        "Content":"Operation_Stack.png"
+    },
+    {
+        "EXPANSION":"Galactic Corps",
+        "CARD NAME":"Security Checkpoint",
+        "TYPE":"Galactic Corps",
+        "Content":"Security_Checkpoint.png"
+    },
+    {
+        "EXPANSION":"Galactic Corps",
+        "CARD NAME":"Stop And Search",
+        "TYPE":"Galactic Corps",
+        "Content":"Stop_And_Search.png"
+    },
+    {
+        "EXPANSION":"Purge Outbreak",
+        "CARD NAME":"Annihilate!",
+        "TYPE":"Purge Annihilator",
+        "Content":"Annihilate!.png"
+    },
+    {
+        "EXPANSION":"Purge Outbreak",
+        "CARD NAME":"Arachnophobia",
+        "TYPE":"Purge Gatherers",
+        "Content":"Arachnophobia.png"
+    },
+    {
+        "EXPANSION":"Purge Outbreak",
+        "CARD NAME":"Biohazard",
+        "TYPE":"Environment",
+        "Content":"Biohazard.png"
+    },
+    {
+        "EXPANSION":"Purge Outbreak",
+        "CARD NAME":"Gravity Unwell",
+        "TYPE":"Environment",
+        "Content":"Gravity_Unwell.png"
+    },
+    {
+        "EXPANSION":"Purge Outbreak",
+        "CARD NAME":"Hostile Environment",
+        "TYPE":"Environment",
+        "Content":"Hostile_Environment.png"
+    },
+    {
+        "EXPANSION":"Purge Reinforcements",
+        "CARD NAME":"Hidden In Plain Sight",
+        "TYPE":"Purge Reinforcements",
+        "Content":"Hidden_In_Plain_Sight.png"
+    },
+    {
+        "EXPANSION":"Purge Reinforcements",
+        "CARD NAME":"Increased Hostility",
+        "TYPE":"Purge Reinforcements",
+        "Content":"Increased_Hostility.png"
+    },
+    {
+        "EXPANSION":"Purge Reinforcements",
+        "CARD NAME":"Replicator",
+        "TYPE":"Purge Reinforcements",
+        "Content":"Replicator.png"
+    },
+    {
+        "EXPANSION":"Shootout At Zed's",
+        "CARD NAME":"Gang Activity",
+        "TYPE":"Criminal Gangers",
+        "Content":"Gang_Activity.png"
+    },
+    {
+        "EXPANSION":"Shootout At Zed's",
+        "CARD NAME":"Gang Activity",
+        "TYPE":"Criminal Gangers",
+        "Content":"Gang_Activity.png"
+    },
+    {
+        "EXPANSION":"Shootout At Zed's",
+        "CARD NAME":"Minor Felons",
+        "TYPE":"Criminal Gangers",
+        "Content":"Minor_Felons.png"
+    },
+    {
+        "EXPANSION":"Shootout At Zed's",
+        "CARD NAME":"Power Struggle",
+        "TYPE":"Criminal Gangers",
+        "Content":"Power_Struggle.png"
+    },
+    {
+        "EXPANSION":"Shootout At Zed's",
+        "CARD NAME":"Rising Crime",
+        "TYPE":"Criminal Gangers",
+        "Content":"Rising_Crime.png"
+    },
+    {
+        "EXPANSION":"Rogue Purge",
+        "CARD NAME":"Decay Protocol",
+        "TYPE":"Rogue Purge",
+        "Content":"Decay_Protocol.png"
+    },
+    {
+        "EXPANSION":"Rogue Purge",
+        "CARD NAME":"Dodgy Disguise",
+        "TYPE":"Rogue Purge",
+        "Content":"Dodgy_Disguise.png"
+    },
+    {
+        "EXPANSION":"Rogue Purge",
+        "CARD NAME":"Fast Learners",
+        "TYPE":"Rogue Purge",
+        "Content":"Fast_Learners.png"
+    },
+    {
+        "EXPANSION":"Rogue Purge",
+        "CARD NAME":"Hive Mind Override",
+        "TYPE":"Rogue Purge",
+        "Content":"Hive_Mind_Override.png"
+    },
+    {
+        "EXPANSION":"Rogue Purge",
+        "CARD NAME":"The Wanderer",
+        "TYPE":"Rogue Purge",
+        "Content":"The_Wanderer.png"
+    },
+    {
+        "EXPANSION":"Shift Change \/ Black Star",
+        "CARD NAME":"Avenues Of Escape",
+        "TYPE":"Scavenger",
+        "Content":"Avenues_Of_Escape.png"
+    },
+    {
+        "EXPANSION":"Shift Change \/ Black Star",
+        "CARD NAME":"Big Score",
+        "TYPE":"Scavenger",
+        "Content":"Big_Score.png"
+    },
+    {
+        "EXPANSION":"Shift Change \/ Black Star",
+        "CARD NAME":"From Under Your Nose",
+        "TYPE":"Scavenger",
+        "Content":"From_Under_Your_Nose.png"
+    },
+    {
+        "EXPANSION":"Shift Change \/ Black Star",
+        "CARD NAME":"Multipass",
+        "TYPE":"Assistance",
+        "Content":"Multipass.png"
+    },
+    {
+        "EXPANSION":"Shift Change \/ Black Star",
+        "CARD NAME":"You Had One Job",
+        "TYPE":"Worker",
+        "Content":"You_Had_One_Job.png"
+    },
+    {
+        "EXPANSION":"Wanted Dead Or Alive",
+        "CARD NAME":"A Better Offer",
+        "TYPE":"Assistance",
+        "Content":"A_Better_Offer.png"
+    },
+    {
+        "EXPANSION":"Wanted Dead Or Alive",
+        "CARD NAME":"Price On Your Head",
+        "TYPE":"Bounty Hunter",
+        "Content":"Price_On_Your_Head.png"
+    },
+    {
+        "EXPANSION":"Wanted Dead Or Alive",
+        "CARD NAME":"Price On Your Head",
+        "TYPE":"Bounty Hunter",
+        "Content":"Price_On_Your_Head.png"
+    },
+    {
+        "EXPANSION":"Wanted Dead Or Alive",
+        "CARD NAME":"New Information",
+        "TYPE":"Bounty Hunter",
+        "Content":"New_Information.png"
+    },
+    {
+        "EXPANSION":"Wanted Dead Or Alive",
+        "CARD NAME":"Added Incentive",
+        "TYPE":"Bounty Hunter",
+        "Content":"Added_Incentive.png"
+    },
+    {
+        "EXPANSION":"Trading Post 5",
+        "CARD NAME":"Lone Agent",
+        "TYPE":"Galactic Corps",
+        "Content":"Lone_Agent.png"
+    },
+    {
+        "EXPANSION":"Trading Post 5",
+        "CARD NAME":"Life of Crime",
+        "TYPE":"Criminal Gangers",
+        "Content":"Life_of_Crime.png"
+    },
+    {
+        "EXPANSION":"Trading Post 5",
+        "CARD NAME":"Supply Drop",
+        "TYPE":"Assistance",
+        "Content":"Supply_Drop.png"
+    },
+    {
+        "EXPANSION":"Trading Post 5",
+        "CARD NAME":"Gold Rush",
+        "TYPE":"Environment",
+        "Content":"Gold_Rush.png"
+    },
+    {
+        "EXPANSION":"Trading Post 5",
+        "CARD NAME":"Close To The Edge",
+        "TYPE":"Civilians",
+        "Content":"Close_To_The_Edge.png"
+    },
+    {
+        "EXPANSION":"Gates Of Ry\u2019sa",
+        "CARD NAME":"Dimension Breach",
+        "TYPE":"Environment",
+        "Content":"Dimension_Breach.png"
+    },
+    {
+        "EXPANSION":"Gates Of Ry\u2019sa",
+        "CARD NAME":"Defend The Gate",
+        "TYPE":"Environment",
+        "Content":"Defend_The_Gate.png"
+    },
+    {
+        "EXPANSION":"Gates Of Ry\u2019sa",
+        "CARD NAME":"Ry\u2019san Affinity",
+        "TYPE":"Assistance",
+        "Content":"Ry\u2019san_Affinity.png"
+    },
+    {
+        "EXPANSION":"Gates Of Ry\u2019sa",
+        "CARD NAME":"Venomous Assault",
+        "TYPE":"Talos",
+        "Content":"Venomous_Assault.png"
+    },
+    {
+        "EXPANSION":"Gates Of Ry\u2019sa",
+        "CARD NAME":"Infernal Assault",
+        "TYPE":"Cerberosa",
+        "Content":"Infernal_Assault.png"
+    },
+    {
+        "EXPANSION":"First Born",
+        "CARD NAME":"Threat Eradication",
+        "TYPE":"First Born",
+        "Content":"Threat_Eradication.png"
+    },
+    {
+        "EXPANSION":"First Born",
+        "CARD NAME":"Check List",
+        "TYPE":"First Born",
+        "Content":"Check_List.png"
+    },
+    {
+        "EXPANSION":"First Born",
+        "CARD NAME":"Tresspassers",
+        "TYPE":"First Born",
+        "Content":"Tresspassers.png"
+    },
+    {
+        "EXPANSION":"First Born",
+        "CARD NAME":"Fanatical Earth",
+        "TYPE":"First Born",
+        "Content":"Fanatical_Earth.png"
+    },
+    {
+        "EXPANSION":"First Born",
+        "CARD NAME":"Surprise Assault",
+        "TYPE":"First Born",
+        "Content":"Surprise_Assault.png"
+    },
+    {
+        "EXPANSION":"First Born",
+        "CARD NAME":"Increased Offence",
+        "TYPE":"First Born",
+        "Content":"Increased_Offence.png"
+    },
+    {
+        "EXPANSION":"First Born",
+        "CARD NAME":"We\u2019ve Got Company",
+        "TYPE":"First Born",
+        "Content":"We\u2019ve_Got_Company.png"
+    },
+    {
+        "EXPANSION":"First Born",
+        "CARD NAME":"Shifting Sands",
+        "TYPE":"First Born",
+        "Content":"Shifting_Sands.png"
+    },
+    {
+        "EXPANSION":"First Born",
+        "CARD NAME":"Energy Surge",
+        "TYPE":"Environment",
+        "Content":"Energy_Surge.png"
+    },
+    {
+        "EXPANSION":"First Born",
+        "CARD NAME":"Reactor Ignition",
+        "TYPE":"Environment",
+        "Content":"Reactor_Ignition.png"
+    },
+    {
+        "EXPANSION":"First Born",
+        "CARD NAME":"Sporadic Release",
+        "TYPE":"Environment",
+        "Content":"Sporadic_Release.png"
+    },
+    {
+        "EXPANSION":"First Born",
+        "CARD NAME":"Erratic Release",
+        "TYPE":"Environment",
+        "Content":"Erratic_Release.png"
+    },
+    {
+        "EXPANSION":"First Born",
+        "CARD NAME":"Just When You Thought",
+        "TYPE":"Environment",
+        "Content":"Just_When_You_Thought.png"
+    },
+    {
+        "EXPANSION":"First Born",
+        "CARD NAME":"Much Appreciated",
+        "TYPE":"Environment",
+        "Content":"Much_Appreciated.png"
+    },
+    {
+        "EXPANSION":"First Born",
+        "CARD NAME":"We Trained For This",
+        "TYPE":"Environment",
+        "Content":"We_Trained_For_This.png"
+    },
+    {
+        "EXPANSION":"First Born",
+        "CARD NAME":"Reality Shift",
+        "TYPE":"Environment",
+        "Content":"Reality_Shift.png"
+    },
+    {
+        "EXPANSION":"First Born",
+        "CARD NAME":"What Comes Around",
+        "TYPE":"Assistance",
+        "Content":"What_Comes_Around.png"
+    },
+    {
+        "EXPANSION":"First Born",
+        "CARD NAME":"Fascinating Artifact",
+        "TYPE":"Assistance",
+        "Content":"Fascinating_Artifact.png"
+    },
+    {
+        "EXPANSION":"First Born",
+        "CARD NAME":"On The Hunt",
+        "TYPE":"Game Hunters",
+        "Content":"On_The_Hunt.png"
+    },
+    {
+        "EXPANSION":"First Born",
+        "CARD NAME":"Big Game",
+        "TYPE":"Game Hunters",
+        "Content":"Big_Game.png"
+    },
+    {
+        "EXPANSION":"First Born",
+        "CARD NAME":"Pest Control",
+        "TYPE":"Rock Worms",
+        "Content":"Pest_Control.png"
+    },
+    {
+        "EXPANSION":"First Born",
+        "CARD NAME":"Worm Holes",
+        "TYPE":"Rock Worms",
+        "Content":"Worm_Holes.png"
+    },
+    {
+        "EXPANSION":"First Born",
+        "CARD NAME":"Trypophobia",
+        "TYPE":"Rock Worms",
+        "Content":"Trypophobia.png"
+    },
+    {
+        "EXPANSION":"First Born",
+        "CARD NAME":"Worm Food",
+        "TYPE":"Rock Worms",
+        "Content":"Worm_Food.png"
+    },
+    {
+        "EXPANSION":"First Born Support",
+        "CARD NAME":"Defend The Temple",
+        "TYPE":"First Born Support",
+        "Content":"Defend_The_Temple.png"
+    },
+    {
+        "EXPANSION":"First Born Support",
+        "CARD NAME":"Surrounded",
+        "TYPE":"First Born Support",
+        "Content":"Surrounded.png"
+    },
+    {
+        "EXPANSION":"First Born Support",
+        "CARD NAME":"High Alert",
+        "TYPE":"First Born Support",
+        "Content":"High_Alert.png"
+    },
+    {
+        "EXPANSION":"Fury Of The Insane God",
+        "CARD NAME":"Godly Arrival",
+        "TYPE":"The Insane God",
+        "Content":"Godly_Arrival.png"
+    },
+    {
+        "EXPANSION":"Fury Of The Insane God",
+        "CARD NAME":"Divine Advent",
+        "TYPE":"The Insane God",
+        "Content":"Divine_Advent.png"
+    },
+    {
+        "EXPANSION":"Fury Of The Insane God",
+        "CARD NAME":"Insanity",
+        "TYPE":"The Insane God",
+        "Content":"Insanity.png"
+    },
+    {
+        "EXPANSION":"Fury Of The Insane God",
+        "CARD NAME":"Energy Vacuum",
+        "TYPE":"The Insane God",
+        "Content":"Energy_Vacuum.png"
+    },
+    {
+        "EXPANSION":"Fury Of The Insane God",
+        "CARD NAME":"Energy Release",
+        "TYPE":"The Insane God",
+        "Content":"Energy_Release.png"
+    },
+    {
+        "EXPANSION":"In The Line Of Fire",
+        "CARD NAME":"Rumours of Riches",
+        "TYPE":"Prospectors",
+        "Content":"Rumours_of_Riches.png"
+    },
+    {
+        "EXPANSION":"In The Line Of Fire",
+        "CARD NAME":"Gold In Them Thar Hills",
+        "TYPE":"Prospectors",
+        "Content":"Gold_In_Them_Thar_Hills.png"
+    },
+    {
+        "EXPANSION":"In The Line Of Fire",
+        "CARD NAME":"Supply Drop",
+        "TYPE":"Assistance",
+        "Content":"Supply_Drop.png"
+    },
+    {
+        "EXPANSION":"In The Line Of Fire",
+        "CARD NAME":"Breaking News",
+        "TYPE":"Media",
+        "Content":"Breaking_News.png"
+    },
+    {
+        "EXPANSION":"In The Line Of Fire",
+        "CARD NAME":"Making Headlines",
+        "TYPE":"Media",
+        "Content":"Making_Headlines.png"
+    }
+]
