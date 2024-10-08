@@ -264,46 +264,58 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // Function to display the current card
-    function showCurrentCard() {
-        const output = document.getElementById('deckOutput');
-        output.style.opacity = 0; // Start with transparent
+// Function to display the current card
+function showCurrentCard() {
+    const output = document.getElementById('deckOutput');
+    output.style.opacity = 0; // Start with transparent
 
-        setTimeout(() => {
-            output.innerHTML = ''; // Clear previous content
+    setTimeout(() => {
+        output.innerHTML = ''; // Clear previous content
+        
+        let contentHTML = '';
+        
+        if (currentIndex === -1) { // Display back.jpg
+            contentHTML = `
+                <div class="card-item">
+                    <strong>Start the Game</strong><br>
+                    <img src="cardimages/back.jpg" alt="Card Back" class="card-image img-fluid">
+                </div>`;
+        } else {
+            const card = currentDeck[currentIndex];
+            // Use the 'Content' field for the image filename
+            contentHTML = `
+                <div class="card-item">
+                    <strong>${card['CARD NAME']}</strong> ${card.TYPE ? `(${card.TYPE})` : ''}<br>
+                    <img src="cardimages/${card.Content}" alt="${card['CARD NAME']}" class="card-image img-fluid">
+                </div>`;
+        }
 
-            let contentHTML = '';
+        output.innerHTML = contentHTML;
 
-            if (currentIndex === -1) {
-                // Display back.jpg
-                contentHTML = `
-                    <div class="card-item">
-                        <strong>Start the Game</strong><br>
-                        <img src="cardimages/back.jpg" alt="Card Back" class="card-image img-fluid">
-                    </div>
-                `;
-            } else {
-                const card = currentDeck[currentIndex];
-                // Use the 'Content' field for the image filename
-                contentHTML = `
-                    <div class="card-item">
-                        <strong>${card['CARD NAME']}</strong>${card.TYPE ? ` (${card.TYPE})` : ''}<br>
-                        <img src="cardimages/${card.Content}" alt="${card['CARD NAME']}" class="card-image img-fluid">
-                    </div>
-                `;
-            }
+        // Update progress bar
+        updateProgressBar();
 
-            output.innerHTML = contentHTML;
+        // Fade in
+        output.style.opacity = 1;
 
-            // Update progress bar
-            updateProgressBar();
+        // Scroll the card display area into view
+        output.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }, 200);
+}
 
-            // Fade in
-            output.style.opacity = 1;
-
-            // Scroll the card display area into view
-            output.scrollIntoView({ behavior: 'smooth', block: 'center' });
-        }, 200);
+// Event listener for nextCard button click to navigate through cards
+document.getElementById('nextCard').addEventListener('click', () => {
+    if (currentIndex < currentDeck.length - 1) { // Only advance if there is more than one card left
+        currentIndex++;
+        console.log("New index:", currentIndex); // Debugging log
+        showCurrentCard();
+    } else {
+        if (currentDeck.length === 0) {
+            showToast('No cards selected.');
+        }
+        console.log("End of deck or empty deck."); // Debugging log
     }
+});
 
     // Function to display the deck
     function displayDeck() {
